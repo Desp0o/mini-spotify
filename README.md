@@ -12,3 +12,6 @@ A simple and elegant music player app built using SwiftUI and UIKit, offering es
 - **Loop Mode**: Keep your favorite song playing on repeat.  
 - **Shuffle Mode**: Enjoy tracks in a randomized order.  
 - **Minimize/Maximize Player Tab**: Seamlessly switch between compact and full views of the music player.  
+
+##Demo
+ - [Demo Video](https://youtube.com/shorts/c6v7OYGyOSA?feature=share)
